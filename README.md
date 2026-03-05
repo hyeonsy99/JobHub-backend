@@ -169,15 +169,3 @@ java -jar build/libs/jobhub-*.jar
 - 정적 분석: Spotless/Checkstyle (옵션)
 - 문서화: Swagger/OpenAPI (옵션)
 
----
-
-## 📄 License
-
-이 저장소의 라이선스 정책이 정해지지 않았다면, 사용 전 팀/소유자와 협의하세요.
-
----
-
-## 🙌 Contributing
-
-이슈/PR 환영합니다.  
-코딩 컨벤션과 커밋 메시지 규칙을 지켜 주세요.
